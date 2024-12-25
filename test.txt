@@ -1,3 +1,5 @@
 Add main commit 1
+<<<<<<< HEAD
 Add main commit 2
 Add main commit 3
+Add feature commit 1
